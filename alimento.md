@@ -144,8 +144,8 @@ Alimentación: Maíz
 
  Periodo de lactancia: 120 días
 
-Pasteurizar
--
+#####Pasteurizar
+
 La pasteurización es un proceso de calentamiento de la leche a una temperatura específica, durante un período establecido, que destruye las bacterias perjudiciales. La pasteurización, destruye los microorganismos nocivos responsables de enfermedades como listeriosis, fiebre tifoidea, tuberculosis, difteria y brucelosis.
 
 - Hierve las botellas de vidrio sumergidas en agua por unos 10 minutos para desinfectarlas. Por otro lado, las puedes poner en un horno pre-calentado a 212 Fahrenheit (100 Celsius) por 20 minutos.
