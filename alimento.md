@@ -170,3 +170,95 @@ La pasteurización es un proceso de calentamiento de la leche a una temperatura 
 - Primero pasteurizamos de 2 a 3 litros de leche de cabra cociendola a una temperatura de 70 grados centígrados durante 30 minutos y después la dejamos enfriar hasta que llegue a una temperatura entre 36 y 40 grados centígrados. Después, añadimos unas gotas de cuajo líquido o de zumo de limón y removemos para que se mezcle bien.
 - Volvemos a dejar reposar unos 30 minutos y disponemos un paño de muselina u otro tejido similar. Dispón este paño sobre un colador y vierte la cuajada repartida, seguidamente, ata las cuatro puntas del paño y cuélgalo para que escurra bien, poniendo un cubo debajo durante unas 3 horas. De vez en cuando, presiona con los dedos el paño ligeramente.
 - Luego desatar las puntas del paño y colocar el queso en un plato listo para ser comido, también puedes ponerlo antes en un molde para que tome una forma específica.
+
+
+#####Huevos
+- Gallina ponedora
+ Un huevo cada: 26 horas
+
+- Codorniz ponedora
+ Un huevo cada: 22 horas
+
+#####Vegetal
+- Verduras
+ Apio España
+ Ajoporro
+ Albahaca
+ Berro
+ Cebollin
+ Cilantro
+ Espinaca
+ Esparragos
+ Vainita
+ Orégano
+ Perejil
+
+2.2.2.- Hortalizas
+Ajo
+Aji
+Berenjena
+Brócoli
+Cebolla
+Calabacín
+Coliflor
+Chayota
+Lechuga
+Maiz
+Pepino
+Pimentón
+Repollo
+Tomate
+
+2.2.3.- Tubérculos
+Batata
+Jengibre
+Ñame
+Ocumo
+Papa
+Remolacha
+Yuca
+Zanahoria
+
+2.2.4.- Frutas
+Aceituna
+Alcaparra
+Aguacate
+Auyama
+Banana
+Cacao
+Coco
+Ciruela
+Cereza
+Durazno
+Fresa
+Frambuesa
+Guayaba
+Guanabana
+Higo
+Kiwi
+Mango
+Melón
+Mora
+Mango
+Mandarina
+Mandarina
+Níspero
+Naranja
+Lima
+Lechosa
+Limón
+Piña
+Patilla
+Pomarrosa
+Parchita
+Plátano
+Uva
+Tamarindo
+Toronja
+
+#####Cereales
+######Legumbres
+Frijoles
+Caraotas
+Arvejas
+
