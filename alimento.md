@@ -1,7 +1,7 @@
 ####ALIMENTO
 
-#Animal
-#Carnes rojas
+#####Animal
+#####Carnes rojas
 
 
 - Vaca
