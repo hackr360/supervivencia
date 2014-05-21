@@ -8,8 +8,8 @@ Los síntomas de deshidratación son perceptibles sólo cuando se reduce en un 2
 
 ¿Cómo conseguir agua?
 -
-De ríos
-Hervir el agua de los ríos con el fin de evitar la contaminación bacteriana.
+
+- Hervir el agua de los ríos con el fin de evitar la contaminación bacteriana.
 
 De mares
 El agua que se hierve y cuyo vapor puede recuperarse por condensación es un medio para conseguir agua pura de mares.
