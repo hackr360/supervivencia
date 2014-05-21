@@ -193,7 +193,7 @@ La pasteurización es un proceso de calentamiento de la leche a una temperatura 
  Orégano
  Perejil
 
-2.2.2.- Hortalizas
+#####Hortalizas
 Ajo
 Aji
 Berenjena
@@ -209,7 +209,7 @@ Pimentón
 Repollo
 Tomate
 
-2.2.3.- Tubérculos
+#####Tubérculos
 Batata
 Jengibre
 Ñame
@@ -219,7 +219,7 @@ Remolacha
 Yuca
 Zanahoria
 
-2.2.4.- Frutas
+#####Frutas
 Aceituna
 Alcaparra
 Aguacate
@@ -257,7 +257,8 @@ Tamarindo
 Toronja
 
 #####Cereales
-######Legumbres
+
+#####Legumbres
 Frijoles
 Caraotas
 Arvejas
