@@ -1,3 +1,3 @@
-#PLAN DE CONTINGENCIA
+#PLAN DE CONTINGENCIAS
 
 * [Agua](agua.md)
