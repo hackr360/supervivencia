@@ -2,7 +2,6 @@ ALIMENTO
 =
 
 Animal
--
 Carnes rojas
 -
 
