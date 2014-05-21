@@ -3,7 +3,7 @@
 #####Animal
 #####Carnes rojas
 
-1. Vaca
+- Vaca
 
  Número máximo de crías: 1
 
