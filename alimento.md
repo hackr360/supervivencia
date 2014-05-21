@@ -16,6 +16,7 @@ Tiempo para sacrificar: 730 días.
 
 Alimentación: Hierba.
 
+
 - Búfala
 
 Número máximo de crías: 1
@@ -25,6 +26,7 @@ Tiempo de gestación: 334 días
 Tiempo para sacrificar: 730 días
 
 Alimentación: Hierba
+
 
 - Cerdo
 
@@ -36,6 +38,7 @@ Tiempo para sacrificar: 182 días
 
 Alimentación: Carne y Vegetales
 
+
 - Oveja
 
 Número máximo de crías: 1-2
@@ -45,6 +48,7 @@ Tiempo de gestación: 150 días
 Tiempo para sacrificar: 243 días
 
 Alimentación: Hierba
+
 
 - Cabra
 
@@ -60,6 +64,7 @@ Alimentación: Hierba
 Carnes blancas
 -
 
+
 - Pollo
 
 Número máximo de crías: 8-10
@@ -69,6 +74,7 @@ Tiempo de gestación: 21 días
 Tiempo para sacrificar: 152 días
 
 Alimentación: Maíz
+
 
 - Pavo
 
@@ -80,6 +86,7 @@ Tiempo para sacrificar: 182 días
 
 Alimentación: Maíz
 
+
 - Pato
 
 Número máximo de crías: 4-12
@@ -89,6 +96,7 @@ Tiempo de gestación: 28 días
 Tiempo para sacrificar: 70 días
 
 Alimentación: Maíz
+
 
 - Ganso
 
@@ -100,6 +108,7 @@ Tiempo para sacrificar: 121 días
 
 Alimentación: Maíz
 
+
 - Guinea
 
 Número máximo de crías: 12-20
@@ -109,6 +118,7 @@ Tiempo de gestación: 25 días
 Tiempo para sacrificar: 152 días
 
 Alimentación: Maíz
+
 
 - Codorniz
 
@@ -129,17 +139,20 @@ Máximo litros de leche por día: 8-15 litros
 
 Periodo de lactancia: 210 días
 
+
 - Búfala lechera
 
 Máximo litros de leche por día: 5-7 litros
 
 Periodo de lactancia: 240-270 días
 
+
 - Oveja lechera
 
 Máximo litros de leche por día: 3-4 litros
 
 Periodo de lactancia: 120-150 días
+
 
 - Cabra lechera
 
