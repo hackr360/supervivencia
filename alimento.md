@@ -17,6 +17,9 @@ Tiempo para sacrificar: 730 días.
 Alimentación: Hierba.
 
 
+
+
+
 - Búfala
 
 Número máximo de crías: 1
