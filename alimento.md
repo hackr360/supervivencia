@@ -7,9 +7,13 @@ Carnes rojas
 -
 
 - Vaca
-Número máximo de crías: 1.
+
+Número máximo de crías: 1
+
 Tiempo de gestación: 285 días.
+
 Tiempo para sacrificar: 730 días.
+
 Alimentación: Hierba.
 
 Búfalo
