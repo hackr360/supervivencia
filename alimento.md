@@ -1,6 +1,6 @@
 ####ALIMENTO
 
-#####Animal
+####Animal
 #####Carnes rojas
 
 - Vaca
@@ -179,7 +179,7 @@ La pasteurización es un proceso de calentamiento de la leche a una temperatura 
 - Codorniz ponedora
  Un huevo cada: 22 horas
 
-#####Vegetal
+####Vegetal
 - Verduras
 
  Apio España
