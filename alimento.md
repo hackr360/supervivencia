@@ -16,85 +16,139 @@ Tiempo para sacrificar: 730 días.
 
 Alimentación: Hierba.
 
-Búfalo
+- Búfala
+
 Número máximo de crías: 1
+
 Tiempo de gestación: 334 días
+
 Tiempo para sacrificar: 730 días
+
 Alimentación: Hierba
 
-Cerdo
+- Cerdo
+
 Número máximo de crías: 10-12
+
 Tiempo de gestación: 115 días
+
 Tiempo para sacrificar: 182 días
+
 Alimentación: Carne y Vegetales
 
-Oveja
+- Oveja
+
 Número máximo de crías: 1-2
+
 Tiempo de gestación: 150 días
+
 Tiempo para sacrificar: 243 días
+
 Alimentación: Hierba
 
-Cabra
+- Cabra
+
 Número máximo de crías: 1-3
+
 Tiempo de gestación: 150 días
+
 Tiempo para sacrificar: 304 días
+
 Alimentación: Hierba
 
-2.1.2.- Carnes blancas
-Pollo
+
+Carnes blancas
+-
+
+- Pollo
+
 Número máximo de crías: 8-10
+
 Tiempo de gestación: 21 días
+
 Tiempo para sacrificar: 152 días
+
 Alimentación: Maíz
 
-Pavo
+- Pavo
+
 Número máximo de crías: 8-15
+
 Tiempo de gestación: 28 días
+
 Tiempo para sacrificar: 182 días
+
 Alimentación: Maíz
 
-Pato
+- Pato
+
 Número máximo de crías: 4-12
+
 Tiempo de gestación: 28 días
+
 Tiempo para sacrificar: 70 días
+
 Alimentación: Maíz
 
-Ganso
+- Ganso
+
 Número máximo de crías: 4-6
+
 Tiempo de gestación: 30 días
+
 Tiempo para sacrificar: 121 días
+
 Alimentación: Maíz
 
-Guinea
+- Guinea
+
 Número máximo de crías: 12-20
+
 Tiempo de gestación: 25 días
+
 Tiempo para sacrificar: 152 días
+
 Alimentación: Maíz
 
-Codorniz
+- Codorniz
+
 Número máximo de crías: 6-18
+
 Tiempo de gestación: 16 días
+
 Tiempo para sacrificar: 42 días
+
 Alimentación: Maíz
 
-2.1.3.- Leches
-Vaca lechera
+Leches
+-
+
+- Vaca lechera
+
 Máximo litros de leche por día: 8-15 litros
+
 Periodo de lactancia: 210 días
 
-Búfala lechera
+- Búfala lechera
+
 Máximo litros de leche por día: 5-7 litros
+
 Periodo de lactancia: 240-270 días
 
-Oveja lechera
+- Oveja lechera
+
 Máximo litros de leche por día: 3-4 litros
+
 Periodo de lactancia: 120-150 días
 
-Cabra lechera
+- Cabra lechera
+
 Máximo litros de leche por día: 1-3 litros
+
 Periodo de lactancia: 120 días
 
 Pasteurizar
+-
 La pasteurización es un proceso de calentamiento de la leche a una temperatura específica, durante un período establecido, que destruye las bacterias perjudiciales. La pasteurización, destruye los microorganismos nocivos responsables de enfermedades como listeriosis, fiebre tifoidea, tuberculosis, difteria y brucelosis.
 
 - Hierve las botellas de vidrio sumergidas en agua por unos 10 minutos para desinfectarlas. Por otro lado, las puedes poner en un horno pre-calentado a 212 Fahrenheit (100 Celsius) por 20 minutos.
