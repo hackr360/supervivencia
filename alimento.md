@@ -1,7 +1,7 @@
-####2 ALIMENTO
+#####2 ALIMENTO
 
-####2.1 Animal
-#####Carnes rojas
+#####2.1 Animal
+#####2.1.1 Carnes rojas
 
 - Vaca
 
@@ -117,7 +117,7 @@
 
  Alimentación: Maíz
 
-#####Leches
+#####2.1.2 Leches
 
 
 - Vaca lechera
@@ -172,15 +172,15 @@ La pasteurización es un proceso de calentamiento de la leche a una temperatura 
 - Luego desatar las puntas del paño y colocar el queso en un plato listo para ser comido, también puedes ponerlo antes en un molde para que tome una forma específica.
 
 
-#####Huevos
+#####2.2 Huevos
 - Gallina ponedora
  Un huevo cada: 26 horas
 
 - Codorniz ponedora
  Un huevo cada: 22 horas
 
-####Vegetal
-##### Verduras
+#####2.3 Vegetal
+#####2.3.1 Verduras
 
  Apio España
  Ajoporro
@@ -194,7 +194,7 @@ La pasteurización es un proceso de calentamiento de la leche a una temperatura 
  Orégano
  Perejil
 
-#####Hortalizas
+#####2.3.2 Hortalizas
 Ajo
 Aji
 Berenjena
@@ -210,7 +210,7 @@ Pimentón
 Repollo
 Tomate
 
-#####Tubérculos
+#####2.3.3 Tubérculos
 Batata
 Jengibre
 Ñame
@@ -220,7 +220,7 @@ Remolacha
 Yuca
 Zanahoria
 
-#####Frutas
+#####2.3.4 Frutas
 Aceituna
 Alcaparra
 Aguacate
@@ -257,9 +257,9 @@ Uva
 Tamarindo
 Toronja
 
-#####Cereales
+#####2.3.5 Cereales
 
-#####Legumbres
+#####2.3.6 Legumbres
 Frijoles
 Caraotas
 Arvejas
