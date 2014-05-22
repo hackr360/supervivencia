@@ -1,10 +1,10 @@
 ###PLAN DE CONTINGENCIA
 
-* [Agua](agua.md)
-* [Alimento](alimento.md)
-* [Vivienda](vivienda.md)
-* [Higiene](higiene.md)
-* [Vestimenta](vestimenta.md)
+1 [Agua](agua.md)
+2 [Alimento](alimento.md)
+3 [Vivienda](vivienda.md)
+4.- [Higiene](higiene.md)
+5.- [Vestimenta](vestimenta.md)
 * [Medicamentos](medicamentos.md)
 * [Armas](armas.md)
 * [Perro Guardian](perroguardian.md)
