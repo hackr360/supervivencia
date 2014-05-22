@@ -54,7 +54,7 @@
  Alimentación: Hierba
 
 
-#####Carnes blancas
+#####2.1.2 Carnes blancas
 
 
 - Pollo
@@ -117,7 +117,7 @@
 
  Alimentación: Maíz
 
-#####2.1.2 Leches
+#####2.1.3 Leches
 
 
 - Vaca lechera
