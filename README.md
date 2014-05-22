@@ -1,6 +1,6 @@
 ###PLAN DE CONTINGENCIA
 
-1. [Agua](agua.md)
+1.- [Agua](agua.md)
 2. [Alimento](alimento.md)
 3. [Vivienda](vivienda.md)
 4. [Higiene](higiene.md)
