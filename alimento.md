@@ -1,4 +1,4 @@
-#####2 ALIMENTO
+#####2. ALIMENTO
 
 #####2.1 Animal
 #####2.1.1 Carnes rojas
