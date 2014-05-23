@@ -117,7 +117,7 @@ Tiempo para sacrificar: 42 días
 
 Alimentación: Maíz
 
-######Conejo
+#####Conejo
 
 #####2.1.3 Leches
 
