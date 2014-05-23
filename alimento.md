@@ -120,29 +120,29 @@ Alimentación: Maíz
 #####2.1.3 Leches
 
 
-- Vaca lechera
+Vaca lechera
 
- Máximo litros de leche por día: 8-15 litros
+Máximo litros de leche por día: 8-15 litros
 
- Periodo de lactancia: 210 días
+Periodo de lactancia: 210 días
 
-- Búfala lechera
+#####Búfala lechera
 
- Máximo litros de leche por día: 5-7 litros
+Máximo litros de leche por día: 5-7 litros
 
- Periodo de lactancia: 240-270 días
+Periodo de lactancia: 240-270 días
 
-- Oveja lechera
+#####Oveja lechera
 
- Máximo litros de leche por día: 3-4 litros
+Máximo litros de leche por día: 3-4 litros
 
- Periodo de lactancia: 120-150 días
+Periodo de lactancia: 120-150 días
 
-- Cabra lechera
+#####Cabra lechera
 
- Máximo litros de leche por día: 1-3 litros
+Máximo litros de leche por día: 1-3 litros
 
- Periodo de lactancia: 120 días
+Periodo de lactancia: 120 días
 
 #####Pasteurizar
 
@@ -182,17 +182,17 @@ La pasteurización es un proceso de calentamiento de la leche a una temperatura 
 #####2.3 Vegetal
 #####2.3.1 Verduras
 
- Apio España
- Ajoporro
- Albahaca
- Berro
- Cebollin
- Cilantro
- Espinaca
- Esparragos
- Vainita
- Orégano
- Perejil
+Apio España
+Ajoporro
+Albahaca
+Berro
+Cebollin
+Cilantro
+Espinaca
+Esparragos
+Vainita
+Orégano
+Perejil
 
 #####2.3.2 Hortalizas
 Ajo
