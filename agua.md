@@ -15,7 +15,7 @@ El agua que se hierve y cuyo vapor puede recuperarse por condensación es un med
 #####De lluvias
 Un sistema de captación de agua de lluvia consiste en la recolección o acumulación y el almacenamiento de agua precipitada.
 
-#####De las nieblas
+- #####De las nieblas
 Existen estructuras llamadas "atrapanieblas", que son mallas plásticas puestas hacia el viento en las que choca este tipo de masa de vapor cercana al suelo y deja escurrir las gotas hacia unas canaletas donde se acumula para almacenamiento.
 
 #####De la nieve
