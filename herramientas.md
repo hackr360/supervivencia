@@ -10,6 +10,8 @@
 #####Cocina
 - Ollas
 - Abrelatas
+- Fósforos
+- Cubiertos
 
 #####Carpintería
 - Serrucho
@@ -48,3 +50,4 @@
 - Engrapadora
 - Paraguas
 - Sombrilla
+- Extintor de incendios
