@@ -6,35 +6,35 @@ Los síntomas de deshidratación son perceptibles sólo cuando se reduce en un 2
 
 #####OBTENCION DE AGUA
 
-#####De rios
+- De rios
 Hervir el agua de los ríos con el fin de evitar la contaminación bacteriana.
 
-#####De mares
+- De mares
 El agua que se hierve y cuyo vapor puede recuperarse por condensación es un medio para conseguir agua pura de mares.
 
-#####De lluvias
+- De lluvias
 Un sistema de captación de agua de lluvia consiste en la recolección o acumulación y el almacenamiento de agua precipitada.
 
-- #####De las nieblas
+- De las nieblas
 Existen estructuras llamadas "atrapanieblas", que son mallas plásticas puestas hacia el viento en las que choca este tipo de masa de vapor cercana al suelo y deja escurrir las gotas hacia unas canaletas donde se acumula para almacenamiento.
 
-#####De la nieve
+- De la nieve
 Para calentar la nieve, derrite primero una pequeña cantidad en una olla y luego ve añadiendo más.
 
-#####Estancada
+- Estancada
 A veces, sólo podremos conseguir agua que se encuentra estancada en charcos, sucia por el barro o incluso orina. Hervir y recolectar el agua por condensación.
 
-#####De los árboles
+- De los árboles
 Hay algunas plantas que pueden proveernos de agua. Muchas raíces de árboles y viñas contienen gran cantidad de agua, y puede extraerse colocando fragmentos seleccionados en un recipiente. No utilices líquidos vegetales turbios, lechosos o de colores. También puedes Recoger agua del rocío de plantas y céspedes.
 
-#####Bajo tierra
+- Bajo tierra
 Cuando no hay agua en la superficie, busque en el subsuelo, perforando donde sospeche la existencia de alguna capa freática formada por agua de lluvia o nieve derretida. El acceso a este nivel hidrostático, de agua generalmente pura, depende de la configuración del terreno y del tipo de suelo. 
 
-#####Almacenamiento
+- Almacenamiento
 Los tanques de agua son un elemento fundamental en una red de abastecimiento de agua potable.
 
-#####Bombeo
+- Bombeo
 Incrementar la presión del agua añadiendo fuerza con una bomba hidráulica, para mover agua de una zona de menor presión o altura, ya sea de un río, a otra de mayor presión o altitud donde se vaya a almacenar.
 
-#####Sistema de filtrado
+- Sistema de filtrado
 Los sistemas de filtración tratan el agua pasándola a través de lechos de materiales granulares (arena) que retiran y retienen los contaminantes.
