@@ -6,23 +6,23 @@
 
 - Vaca
 
-Número máximo de crías: 1
+ - Número máximo de crías: 1
 
-Tiempo de gestación: 285 días
+ - Tiempo de gestación: 285 días
 
-Tiempo para sacrificar: 730 días
+ - Tiempo para sacrificar: 730 días
 
-Alimentación: Hierba
+ - Alimentación: Hierba
 
 - Búfala
 
-- Número máximo de crías: 1
+ - Número máximo de crías: 1
 
-- Tiempo de gestación: 334 días
+ - Tiempo de gestación: 334 días
 
-- Tiempo para sacrificar: 730 días
+ - Tiempo para sacrificar: 730 días
 
-- Alimentación: Hierba
+ - Alimentación: Hierba
 
 #####Cerdo
 
