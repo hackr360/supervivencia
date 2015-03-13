@@ -21,9 +21,10 @@
 - Walkie-talkies
 
 #####Entretenimiento
-Audifonos
+- Audifonos
 
 #####Ejercicio
+-
 
 #####Otros
 - Bomba de agua
