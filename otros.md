@@ -1,4 +1,0 @@
-- Botiquin de primeros auxilios
-- Extintor de incendios
-- Fósforos en un recipiente a prueba de agua
-- Cubiertos
