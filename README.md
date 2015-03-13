@@ -4,6 +4,7 @@
 ##### [Alimento](alimento.md)
 ##### [Refugio](Refugio.md)
 ##### [Higiene](higiene.md)
+##### [Salud](salud.md)
 ##### [Vestimenta](vestimenta.md)
 ##### [Seguridad](seguridad.md)
 ##### [Transporte](transporte.md)
