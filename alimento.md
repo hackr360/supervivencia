@@ -116,7 +116,16 @@
 
 - Alimentación: Maíz
 
+
 #####Conejo
+
+- Número máximo de crías:
+
+- Tiempo de gestación:
+
+- Tiempo para sacrificar:
+
+- Alimentación:
 
 #####LACTEOS
 
