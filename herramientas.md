@@ -1,39 +1,39 @@
-9.- HERRAMIENTAS
+#####HERRAMIENTAS
 
-Albañil
+#####Construccion
 - Pala
 - Escardilla
 - Cuchara
 - Pico
 - Cinta métrica 
 
-Cocina
+#####Cocina
 - Ollas
 
-Carpintería
+#####Carpintería
 - Serrucho
 - Martillo
 - Clavos
 - Sierra
 
-Electricidad
+#####Electricidad
 - Cautin
 - Estaño
 - Alicate
 - Tester
 
-Plomeria
+#####Plomeria
 - Llave inglesa
 - Teflon
 - Segueta
 - Terraja
 
-Pesca
+#####Pesca
 - Caña
 - Nylon
 - Anzuelos
 
-Otros
+#####Otros
 - Hacha
 - Machete 
 - Bolso
