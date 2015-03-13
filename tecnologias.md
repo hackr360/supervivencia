@@ -1,12 +1,12 @@
-10.- TECNOLOGÍAS
+#####TECNOLOGÍAS
 
-10.1.- Energía eléctrica
+#####Energía eléctrica
 - Energía eólica
 - Energía solar
 - Baterías
 - Planta electrica a gasolina
 
-10.2.- Básico para el hogar
+#####Básico para el hogar
 - Nevera
 - Refrigerador
 - Lavadora
@@ -14,17 +14,17 @@
 - Ventilador
 - Filtro de agua
 
-10.3.- Computación
+#####Computación
 - Laptop
 
-10.4.- Comunicación
+#####Comunicación
 - Walkie-talkies
 
-10.5.- Entretenimiento
+#####Entretenimiento
 Audifonos
 
-10.6.- Ejercicio
+#####Ejercicio
 
-10.7.- Otros
+#####Otros
 - Bomba de agua
 
