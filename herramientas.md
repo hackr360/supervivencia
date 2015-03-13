@@ -9,6 +9,7 @@
 
 #####Cocina
 - Ollas
+- Abrelatas
 
 #####Carpintería
 - Serrucho
