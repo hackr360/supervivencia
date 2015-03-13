@@ -1,4 +1,4 @@
-###PLAN DE CONTINGENCIA
+###PLAN DE SUPERVIVENCIA
 
 ##### [Agua](agua.md)
 ##### [Alimento](alimento.md)
