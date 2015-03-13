@@ -1,7 +1,7 @@
-#####2.- ALIMENTO
+###ALIMENTO
 
-#####2.1.- Animal
-#####2.1.1.- Carnes rojas
+#####Animal
+#####Carnes rojas
 
 #####Vaca
 
@@ -54,7 +54,7 @@ Tiempo para sacrificar: 304 días
 Alimentación: Hierba
 
 
-#####2.1.2 Carnes blancas
+#####Carnes blancas
 
 
 #####Pollo
@@ -119,7 +119,7 @@ Alimentación: Maíz
 
 #####Conejo
 
-#####2.1.3 Leches
+#####Leches
 
 
 Vaca lechera
