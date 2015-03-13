@@ -119,7 +119,7 @@
 
 #####Conejo
 
-#####Leches
+#####LACTEOS
 
 #####Vaca lechera
 
@@ -172,16 +172,15 @@ La pasteurización es un proceso de calentamiento de la leche a una temperatura 
 - Volvemos a dejar reposar unos 30 minutos y disponemos un paño de muselina u otro tejido similar. Dispón este paño sobre un colador y vierte la cuajada repartida, seguidamente, ata las cuatro puntas del paño y cuélgalo para que escurra bien, poniendo un cubo debajo durante unas 3 horas. De vez en cuando, presiona con los dedos el paño ligeramente.
 - Luego desatar las puntas del paño y colocar el queso en un plato listo para ser comido, también puedes ponerlo antes en un molde para que tome una forma específica.
 
-
-#####2.2 Huevos
+#####Huevos
 - Gallina ponedora
  Un huevo cada: 26 horas
 
 - Codorniz ponedora
  Un huevo cada: 22 horas
 
-#####2.3 Vegetal
-#####2.3.1 Verduras
+#####Vegetal
+#####Verduras
 
 Apio España
 Ajoporro
@@ -195,7 +194,7 @@ Vainita
 Orégano
 Perejil
 
-#####2.3.2 Hortalizas
+#####Hortalizas
 Ajo
 Aji
 Berenjena
@@ -211,7 +210,7 @@ Pimentón
 Repollo
 Tomate
 
-#####2.3.3 Tubérculos
+#####Tubérculos
 Batata
 Jengibre
 Ñame
@@ -221,7 +220,7 @@ Remolacha
 Yuca
 Zanahoria
 
-#####2.3.4 Frutas
+#####Frutas
 Aceituna
 Alcaparra
 Aguacate
@@ -258,9 +257,9 @@ Uva
 Tamarindo
 Toronja
 
-#####2.3.5 Cereales
+#####Cereales
 
-#####2.3.6 Legumbres
+#####Legumbres
 Frijoles
 Caraotas
 Arvejas
