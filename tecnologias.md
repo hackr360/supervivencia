@@ -16,6 +16,8 @@
 
 #####Computación
 - Laptop
+- Tableta 
+- Telefono
 
 #####Comunicación
 - Walkie-talkies
