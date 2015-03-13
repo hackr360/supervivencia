@@ -1,4 +1,4 @@
-#####AGUA
+###AGUA
 
 El cuerpo humano puede sobrevivir sin agua entre 3 y 5 días. La climatología nos afecta muchísimo, en condiciones de alta temperatura, esta cantidad se reduce de forma considerable a menos de un día. Al referirnos a aguantar sin beber de 3 a 5 días ha de ser en reposo absoluto, sin ejercicio físico y a temperatura fría. 
 
