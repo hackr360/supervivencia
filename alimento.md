@@ -189,84 +189,88 @@
 #####VEGETAL
 - Verduras
 
-Apio España
-Ajoporro
-Albahaca
-Berro
-Cebollin
-Cilantro
-Espinaca
-Esparragos
-Vainita
-Orégano
-Perejil
+ - Apio España
+ - Ajoporro
+ - Albahaca
+ - Berro
+ - Cebollin
+ - Cilantro
+ - Espinaca
+ - Esparragos
+ - Vainita
+ - Orégano
+ - Perejil
 
 - Hortalizas
-Ajo
-Aji
-Berenjena
-Brócoli
-Cebolla
-Calabacín
-Coliflor
-Chayota
-Lechuga
-Maiz
-Pepino
-Pimentón
-Repollo
-Tomate
+
+ - Ajo
+ - Aji
+ - Berenjena
+ - Brócoli
+ - Cebolla
+ - Calabacín
+ - Coliflor
+ - Chayota
+ - Lechuga
+ - Maiz
+ - Pepino
+ - Pimentón
+ - Repollo
+ - Tomate
 
 - Tubérculos
-Batata
-Jengibre
-Ñame
-Ocumo
-Papa
-Remolacha
-Yuca
-Zanahoria
+
+ - Batata
+ - Jengibre
+ - Ñame
+ - Ocumo
+ - Papa
+ - Remolacha
+ - Yuca
+ - Zanahoria
 
 - Frutas
-Aceituna
-Alcaparra
-Aguacate
-Auyama
-Banana
-Cacao
-Coco
-Ciruela
-Cereza
-Durazno
-Fresa
-Frambuesa
-Guayaba
-Guanabana
-Higo
-Kiwi
-Mango
-Melón
-Mora
-Mango
-Mandarina
-Mandarina
-Níspero
-Naranja
-Lima
-Lechosa
-Limón
-Piña
-Patilla
-Pomarrosa
-Parchita
-Plátano
-Uva
-Tamarindo
-Toronja
+
+ - Aceituna
+ - Alcaparra
+ - Aguacate
+ - Auyama
+ - Banana
+ - Cacao
+ - Coco
+ - Ciruela
+ - Cereza
+ - Durazno
+ - Fresa
+ - Frambuesa
+ - Guayaba
+ - Guanabana
+ - Higo
+ - Kiwi
+ - Mango
+ - Melón
+ - Mora
+ - Mango
+ - Mandarina
+ - Mandarina
+ - Níspero
+ - Naranja
+ - Lima
+ - Lechosa
+ - Limón
+ - Piña
+ - Patilla
+ - Pomarrosa
+ - Parchita
+ - Plátano
+ - Uva
+ - Tamarindo
+ - Toronja
 
 - Cereales
 
 - Legumbres
-Frijoles
-Caraotas
-Arvejas
+
+ - Frijoles
+ - Caraotas
+ - Arvejas
