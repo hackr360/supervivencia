@@ -1,9 +1,9 @@
-#####12.- DESECHOS
-#####12.1.- Orgánicos
+#####DESECHOS
+#####Orgánicos
 - Restos de alimentos
 - Estiércol
 
-#####12.2.- Inorgánicos
+#####Inorgánicos
 - Vidrio
 - Plástico
 - Metal
