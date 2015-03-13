@@ -1,7 +1,8 @@
 ###ALIMENTO
 
 #####ANIMAL
-#####Carnes rojas
+
+#####Carnes rojas:
 
 #####Vaca
 
@@ -53,9 +54,7 @@
 
 - Alimentación: Hierba
 
-
-#####CARNES BLANCAS
-
+#####Carnes blancas:
 
 #####Pollo
 
