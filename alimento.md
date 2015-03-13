@@ -116,7 +116,6 @@
 
 - Alimentación: Maíz
 
-
 #####Conejo
 
 - Número máximo de crías:
@@ -166,6 +165,7 @@ La pasteurización es un proceso de calentamiento de la leche a una temperatura 
 - Vierta la leche en las botellas desinfectadas. Tápelas y pongalas en la nevera.
 
 #####Mantequilla
+
 - Dejar la leche en la nevera al menos 12 horas la leche que se usará para hacer mantequilla, se necesitan acerca de dos litros.
 - Con una cuchara retirar a un tarro la nata que se habrá acumulado en la parte superior de la leche. Una película y color marfil será la base de la rica mantequilla.
 - Repetir esta operación en días sucesivos hasta conseguir 1/2 litro de nata.
@@ -176,6 +176,7 @@ La pasteurización es un proceso de calentamiento de la leche a una temperatura 
 - Guardar en el frigorífico.
 
 #####Queso
+
 - Primero pasteurizamos de 2 a 3 litros de leche de cabra cociendola a una temperatura de 70 grados centígrados durante 30 minutos y después la dejamos enfriar hasta que llegue a una temperatura entre 36 y 40 grados centígrados. Después, añadimos unas gotas de cuajo líquido o de zumo de limón y removemos para que se mezcle bien.
 - Volvemos a dejar reposar unos 30 minutos y disponemos un paño de muselina u otro tejido similar. Dispón este paño sobre un colador y vierte la cuajada repartida, seguidamente, ata las cuatro puntas del paño y cuélgalo para que escurra bien, poniendo un cubo debajo durante unas 3 horas. De vez en cuando, presiona con los dedos el paño ligeramente.
 - Luego desatar las puntas del paño y colocar el queso en un plato listo para ser comido, también puedes ponerlo antes en un molde para que tome una forma específica.
@@ -187,7 +188,7 @@ La pasteurización es un proceso de calentamiento de la leche a una temperatura 
 - Codorniz ponedora
  Un huevo cada: 22 horas
 
-#####Vegetal
+#####VEGETAL
 #####Verduras
 
 Apio España
