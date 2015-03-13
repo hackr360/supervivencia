@@ -1,19 +1,19 @@
-6.- VESTIMENTA
+#####VESTIMENTA
 
-6.1.- Para trabajar
+#####Para trabajar
 - Guantes
 
-6.2.- Para salir
+#####Para salir
 - Botas rústicas
 
-6.3.- Para el frío	
+#####Para el frío	
 - Abrigo
 - Chaquetas
 - Guantes
 - Suéter
 - Gorros
 
-6.4.- Para la humedad
+#####Para la humedad
 - Chaquetas impermeables
 - Pantalones impermeables
 - Botas de goma
