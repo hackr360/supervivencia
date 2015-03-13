@@ -1,2 +1,2 @@
-PERRO GUARDIÁN
+Perro Guardian
 Armas
