@@ -1,4 +1,4 @@
-3.- VIVIENDA
+3.- Refugio
 3.1.- Artículos de hogar 
 3.1.1.- Dormitorio
 Cama, cobija, almohada, closet
