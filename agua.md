@@ -4,7 +4,7 @@ El cuerpo humano puede sobrevivir sin agua entre 3 y 5 días. La climatología n
 
 Los síntomas de deshidratación son perceptibles sólo cuando se reduce en un 2% la cantidad de agua de nuestro cuerpo de entre ese 55 y 78% de agua que alberga nuestro cuerpo. Si continuamos sin beber agua, y llegamos a la pérdida del 5 % en nuestro cuerpo, comenzamos a tener sueño, dolores de cabeza, náuseas y dolores musculares. A pesar de estos problemas, si continuamos sin beber agua, y la pérdida de agua aumenta al 10-15% del total de nuestro cuerpo, los músculos se contraen involuntariamente, se nos nubla la vista, tenemos temblores, somos incapaces de orinar y si lo conseguimos resulta doloroso y comenzamos a delirar. Una pérdida mayor al 15% supone en la mayoría de los casos mortal.
 
-#####¿Cómo conseguir agua?
+#####Obtención de agua
 
 #####De rios
 Hervir el agua de los ríos con el fin de evitar la contaminación bacteriana.
