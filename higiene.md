@@ -1,6 +1,13 @@
 #####HIGIENE
 
 #####Jabón
+Ingredientes: 
+- 250 gramos de jabón en trozos.
+- 60 gramos de miel.
+- 2 cucharadas de aceite de maíz.
+- 2 cucharadas de aceite esencial del aroma deseado.
+
+Procedimiento:
 
 #####Desodorante
 Ingredientes: 
@@ -8,7 +15,7 @@ Ingredientes:
 - ¼ de taza de maicena.
 - ¼ de taza de aceite de coco.
 
-Procedimiento
+Procedimiento:
 - Mezclar todos los ingredientes a fuego lento por 5 minutos.
 - Retira del fuego y deja enfriar.
 - Vierte la mezcla en un frasco o tubo de desodorante y refrigera por 12 horas.
