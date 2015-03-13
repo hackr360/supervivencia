@@ -41,6 +41,7 @@
 - Machete 
 - Bolso
 - Tijera
+- Linterna
 - Megáfono
 - Cuchillo
 - Lima
@@ -51,3 +52,5 @@
 - Paraguas
 - Sombrilla
 - Extintor de incendios
+- Máscara contra polvo
+- Silbato
